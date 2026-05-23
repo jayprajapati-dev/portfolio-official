@@ -5,7 +5,7 @@
 
 A production-ready, dark-themed personal portfolio built with **Next.js 16**, **Tailwind CSS 4**, and **Framer Motion**. Features an interactive particle background, glassmorphism UI, numbered sections, and full SEO optimization.
 
-**Live Site** → [jp-cloud.space-z.ai](https://jp-cloud.space-z.ai)
+**Live Site** → [jayprajapati-official.vercel.app](https://jayprajapati-official.vercel.app)
 
 ---
 
@@ -113,13 +113,12 @@ bun run start
 
 | Feature | Details |
 |---------|---------|
-| **Site URL** | `https://jp-cloud.space-z.ai` |
+| **Site URL** | `https://jayprajapati-official.vercel.app` |
 | **Sitemap** | `/sitemap.xml` — auto-generated with all sections |
 | **Robots.txt** | Allows all crawlers, references sitemap |
 | **Google Verification** | Meta tag + HTML file |
 | **Structured Data** | Person, WebSite, ProfilePage (JSON-LD) |
 | **Open Graph** | Title, description, image, locale |
-| **Twitter Cards** | `summary_large_image` |
 | **Canonical** | Self-referencing canonical URL |
 | **Hreflang** | `x-default`, `en`, `en-IN`, `en-US`, `en-GB` |
 
@@ -127,7 +126,7 @@ bun run start
 
 ## Links
 
-- **Portfolio** — [jp-cloud.space-z.ai](https://jp-cloud.space-z.ai)
+- **Portfolio** — [jayprajapati-official.vercel.app](https://jayprajapati-official.vercel.app)
 - **GitHub** — [github.com/jayprajapati-dev](https://github.com/jayprajapati-dev)
 - **LinkedIn** — [linkedin.com/in/jayprajapati171120](https://www.linkedin.com/in/jayprajapati171120/)
 

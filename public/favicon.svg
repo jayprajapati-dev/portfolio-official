@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#0a0f1a"/>
+  <rect x="3" y="3" width="94" height="94" rx="18" fill="none" stroke="#10b981" stroke-width="1" opacity="0.2"/>
+  <!-- J -->
+  <path d="M18 22 H42 V32 H33 V65 C33 75 27 80 21 80 H16 V70 H21 C24 70 24 66 24 66 V32 H18 Z" fill="#10b981"/>
+  <!-- P -->
+  <path d="M54 22 V80 H64 V54 H76 C83 54 87 47 87 38 C87 29 83 22 76 22 Z M64 32 H74 C77 32 77 38 77 38 C77 42 77 44 74 44 H64 Z" fill="#10b981"/>
+</svg>
